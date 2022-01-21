@@ -1,2 +1,2 @@
 # Clock
-Website showing the day , date and time
+Website showing the current day , date and time
